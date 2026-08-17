@@ -2,7 +2,7 @@
 
 **A `CLAUDE.md` and a two-file board that turn an AI assistant into something that actually tracks your work.**
 
-Free. Four files. No install, no dependencies, no account. Copy the folder and start.
+Free. Four core files. No install, no dependencies, nothing to sign up for beyond the AI assistant you already use. Copy the folder and start.
 
 ---
 
@@ -10,7 +10,7 @@ Free. Four files. No install, no dependencies, no account. Copy the folder and s
 
 Most people use an AI assistant like a search engine. Every session starts cold. It doesn't know what you're working on, it forgets what you decided yesterday, and it never tells you something is late.
 
-That isn't a model problem. It's a missing-context problem. The fix is three plain text files the assistant reads before it does anything:
+That isn't a model problem. It's a missing-context problem. The fix is four plain text files the assistant reads before it does anything:
 
 | File | What it does |
 |---|---|

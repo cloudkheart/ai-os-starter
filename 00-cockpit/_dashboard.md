@@ -30,7 +30,7 @@
 ---
 
 ## 🔴 Overdue
-*Anything past its deadline lands here automatically and does not leave until it's done or re-dated with a reason.*
+*Your assistant moves anything past its deadline here at session close. It does not leave until it's done or re-dated with a reason.*
 
 | What | Was due | Days late | Why it moved (if it moved) |
 |---|---|---|---|
@@ -55,7 +55,7 @@
 ---
 
 ## This week's schedule
-*Built by the **plan-week** routine. This is the version that goes to your manager.*
+*Say "plan my week" and your assistant fills this in against the hours you actually have. This is the version you can send to your manager.*
 
 | Day | Focus | Key blocks / meetings |
 |---|---|---|

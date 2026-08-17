@@ -13,7 +13,7 @@ date: [ SETUP DAY ]
 - Filling in `CLAUDE.md` with my name and business details.
 
 ## The exact next thing to do
-- Finish the brackets in `CLAUDE.md`, then set my top 3 for this week in `_dashboard.md`.
+- Finish the brackets in `CLAUDE.md`, then set my top 3 for this week in `00-cockpit/_dashboard.md`.
 
 ## Worth remembering
 - Say "close session" at the end of every session — that's what saves my notes for next time.
